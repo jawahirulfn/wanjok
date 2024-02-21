@@ -222,3 +222,16 @@ main {
   text-align: center;
   justify-content: center;
 }
+
+footer {
+  display: flex;
+  background-color: #161b37;
+  justify-content: center;
+}
+
+footer aside p {
+  font-family: "poppins", sans-serif;
+  font-weight: 400;
+  padding: 15px;
+  color: white;
+}
