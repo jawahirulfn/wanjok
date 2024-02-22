@@ -153,7 +153,7 @@ main {
   width: 200px;
 }
 
-.category-service h3 {
+.category-service figure figcaption {
   font-family: "poppins", sans-serif;
   font-weight: 500;
   font-size: 1.25rem;
